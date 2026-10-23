@@ -563,6 +563,30 @@ msgstr "每周六"
 msgid "Every Sunday"
 msgstr "每周日"
 
+msgid "Mon"
+msgstr "周一"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Next Update"
+msgstr "下次更新"
+
 msgid "Netflix"
 msgstr "奈飞（Netflix）"
 
@@ -5722,3 +5746,6 @@ msgstr "搜索设备"
 
 msgid "Minutes"
 msgstr "分钟"
+
+msgid "For a manually created Access Token, bind the current token to a non-primary subscription URL in Access Token Management on the website, then edit the node filter for that URL"
+msgstr "使用手动创建的 Access Token 时，请先到网页「Access Token 管理」将当前 Token 绑定到非主订阅地址，再编辑该地址的节点筛选"

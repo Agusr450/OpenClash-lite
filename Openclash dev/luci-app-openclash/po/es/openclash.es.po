@@ -557,6 +557,30 @@ msgstr "Cada sábado"
 msgid "Every Sunday"
 msgstr "Cada domingo"
 
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mié"
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Fri"
+msgstr "Vie"
+
+msgid "Sat"
+msgstr "Sáb"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Next Update"
+msgstr "Próxima actualización"
+
 msgid "Netflix"
 msgstr "Netflix"
 
@@ -5723,3 +5747,6 @@ msgstr "Buscar dispositivos"
 
 msgid "Minutes"
 msgstr "minutos"
+
+msgid "For a manually created Access Token, bind the current token to a non-primary subscription URL in Access Token Management on the website, then edit the node filter for that URL"
+msgstr "Si usa un Access Token creado manualmente, vincule el token actual a una URL de suscripción no principal en Access Token Management del sitio web y edite el filtro de nodos de esa URL"
